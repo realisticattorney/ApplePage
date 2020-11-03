@@ -6,7 +6,7 @@ We made a clone of the New York Times page. The page works best on a 1366x768 re
 
 
 
-![screenshot](./assets/NYT-screenshot.png)
+![screenshot](./assets/)
  
 ## Built With
 
@@ -16,7 +16,7 @@ We made a clone of the New York Times page. The page works best on a 1366x768 re
 
 ## Live Demo
 
-[Live Demo Link](https://realisticattorney.github.io/NYTimes/)
+[Live Demo Link]()
 
 👤 **Railon Acosta**
 
